@@ -6,5 +6,5 @@ The dataset can be downloaded from kaggle: https://www.kaggle.com/primaryobjects
 
 The goal is to create a Decision tree and Random Forest classifier and compare the accuracy of both the models. 
 
-For everything you need to know follow this medium article:
-https://towardsdatascience.com/random-forest-a-powerful-ensemble-learning-algorithm-2bf132ba639d
+For everything you need to know follow [this article](https://www.theaidream.com/post/random-forest-a-powerful-ensemble-learning-algorithm)
+
